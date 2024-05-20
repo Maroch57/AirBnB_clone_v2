@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x04. AirBnB clone - Web framework
 
 Resources
@@ -891,6 +892,6 @@ In the browser:
     
 
 Repo:
-
 GitHub repository: AirBnB_clone_v2
 File: web_flask/100-hbnb.py, web_flask/templates/100-hbnb.html, web_flask/static/
+
